@@ -21,6 +21,19 @@ Del Wannacry.exe
 Del Petya.exe
 Del Creeper.com
 Del Winpcap Installer.exe
+Del Alureon.exe
+Del Fun.exe
+Del Graybird.exe
+Del Mydoom.exe
+Del Navidad.exe
+Del Simile.exe
+Del ZMist.exe
+Del ILOVEYOU.exe
+Del Hare.exe
+Del Abraxas.exe
+Del Acid.exe
+Del Acme.exe
+Del Espeanto.exe
 Echo Copyright@ 2022 SuitesAnti The Command line antivirus software Official SuitesAnti 1.0
 Echo * Complete
 Echo Press any key to exit program
